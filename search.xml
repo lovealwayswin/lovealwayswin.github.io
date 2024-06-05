@@ -64,6 +64,28 @@
     
     
     <entry>
+      <title></title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!DOCTYPE html><html lang="zh"><head>    <meta charset="UTF-8">    <title>我的画廊</title>    <style>        /* 画廊容器样式 */        .gallery-container {            display: flex;            flex-wrap: wrap;            justify-content: center;            gap: 10px; /* 图片之间的间隔 */            padding: 10px;        }        /* 图片容器样式 */        .gallery-item {            border: 1px solid #ccc; /* 边框 */            padding: 5px;            width: 300px; /* 图片容器的宽度 */            height: 300px; /* 图片容器的高度 */            overflow: hidden; /* 超出部分隐藏 */        }        /* 图片样式 */        .gallery-item img {            width: 100%;            height: auto;            transition: transform 0.5s ease; /* 平滑过渡效果 */        }        /* 图片悬停效果 */        .gallery-item:hover img {            transform: scale(1.1); /* 鼠标悬停时放大图片 */        }    </style></head><body>    <div class="gallery-container">        <!-- 图片容器 -->        <div class="gallery-item">            <img src="https://raw.githubusercontent.com/Christine45647/pic/main/img/img4.png" alt="1">        </div>        <div class="gallery-item">            <img src="https://raw.githubusercontent.com/Christine45647/pic/main/img/img6.webp" alt="2">        </div>        <div class="gallery-item">            <img src="https://chris8831-1327037588.cos.ap-beijing.myqcloud.com/pic/pic11.webp" alt="3">        </div>        <!-- 更多图片 -->    </div></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://m801.music.126.net/20240603212146/a98a08b79fad4b17f8a852faeb1fb769/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/32559736420/6a92/a1e2/7a18/f3cf8bdfbf119791e4a593a43857829c.m4a">命中注定-孙楠</a></p><p><img src="https://raw.githubusercontent.com/Christine45647/pic/main/img/img5.png"></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
@@ -80,17 +102,6 @@
       <url>/link/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://www.pncao.com/">叛逆草</a></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://m801.music.126.net/20240603212146/a98a08b79fad4b17f8a852faeb1fb769/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/32559736420/6a92/a1e2/7a18/f3cf8bdfbf119791e4a593a43857829c.m4a">命中注定-孙楠</a></p><p><img src="https://raw.githubusercontent.com/Christine45647/pic/main/img/img5.png"></p>]]></content>
       
     </entry>
     
