@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2025/02/19/love%20my%20job/"/>
-      <url>/2025/02/19/love%20my%20job/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>I love you guys</p><p>It is my big pleasure to be a teacher</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Wonderful Me</title>
       <link href="/2024/11/15/Who%20am%20I/"/>
       <url>/2024/11/15/Who%20am%20I/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://chris8831-1327037588.cos.ap-beijing.myqcloud.com/pic/privacy/%E6%88%91.jpg"></p><p>向内突破，向外拓展，是一生必修。</p><p>别离亲人，断交友人，淘汰恋人。<br>击败敌人，战胜自己，翻新生活。</p><p>人生实苦，回甘者胜。</p><p>过去的意义，是化作春泥更护花。<br>现在的意义，是千磨万击还坚劲。<br>未来的意义，是人生何处不青山。</p><p>一身灵秀而来，一生传奇而归。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://chris8831-1327037588.cos.ap-beijing.myqcloud.com/privacy/%E6%88%91.jpg"></p><p>向内突破，向外拓展，是一生必修。</p><p>别离亲人，断交友人，淘汰恋人。<br>击败敌人，战胜自己，翻新生活。</p><p>人生实苦，回甘者胜。</p><p>过去的意义，是化作春泥更护花。<br>现在的意义，是千磨万击还坚劲。<br>未来的意义，是人生何处不青山。</p><p>一身灵秀而来，一生传奇而归。</p>]]></content>
       
       
       
@@ -40,7 +27,7 @@
       <link href="/2024/06/08/Love%20is%20Hell/"/>
       <url>/2024/06/08/Love%20is%20Hell/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://chris8831-1327037588.cos.ap-beijing.myqcloud.com/pic/privacy/love%20at%20first%20sight.jpg"></p><p>Love is fated at first sight.</p><p>初见你的我，邂逅了命运。</p><p>Love is seeded at first encountering.</p><p>再见你的我，情根已深种。</p><p>Love is with afflictions.</p><p>爱上你，是我平稳人生中，最大的考验。</p><p>Love is with miracles.</p><p>是我平淡生活里，仅有的传奇。</p><p>Love is, no one can make me the way like you do.</p><p>斯人若彩虹，遇见方知有。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://chris8831-1327037588.cos.ap-beijing.myqcloud.com/privacy/love%20at%20first%20sight.jpg"></p><p>Love is fated at first sight.</p><p>初见你的我，邂逅了命运。</p><p>Love is seeded at first encountering.</p><p>再见你的我，情根已深种。</p><p>Love is with afflictions.</p><p>爱上你，是我平稳人生中，最大的考验。</p><p>Love is with miracles.</p><p>是我平淡生活里，仅有的传奇。</p><p>Love is, no one can make me the way like you do.</p><p>斯人若彩虹，遇见方知有。</p>]]></content>
       
       
       
@@ -62,7 +49,7 @@
       <link href="/gallery/index.html"/>
       <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!DOCTYPE html><html lang="zh"><head>    <meta charset="UTF-8">    <title>我的画廊</title>    <style>        /* 画廊容器样式 */        .gallery-container {            display: flex;            flex-wrap: wrap;            justify-content: center;            gap: 10px; /* 图片之间的间隔 */            padding: 10px;        }        /* 图片容器样式 */        .gallery-item {            border: 1px solid #ccc; /* 边框 */            padding: 5px;            width: 300px; /* 图片容器的宽度 */            height: 300px; /* 图片容器的高度 */            overflow: hidden; /* 超出部分隐藏 */        }        /* 图片样式 */        .gallery-item img {            width: 100%;            height: auto;            transition: transform 0.5s ease; /* 平滑过渡效果 */        }        /* 图片悬停效果 */        .gallery-item:hover img {            transform: scale(1.1); /* 鼠标悬停时放大图片 */        }    </style></head><body>    <div class="gallery-container">        <!-- 图片容器 -->        <div class="gallery-item">            <img src="/img/miracle1.jpeg" alt="No.1">        </div>        <!-- 更多图片 -->    </div></body></html>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><!DOCTYPE html><html lang="zh"><head>    <meta charset="UTF-8">    <title>我的画廊</title>    <style>        /* 画廊容器样式 */        .gallery-container {            display: flex;            flex-wrap: wrap;            justify-content: center;            gap: 10px; /* 图片之间的间隔 */            padding: 10px;        }        /* 图片容器样式 */        .gallery-item {            border: 1px solid #ccc; /* 边框 */            padding: 5px;            width: 300px; /* 图片容器的宽度 */            height: 300px; /* 图片容器的高度 */            overflow: hidden; /* 超出部分隐藏 */        }        /* 图片样式 */        .gallery-item img {            width: 100%;            height: auto;            transition: transform 0.5s ease; /* 平滑过渡效果 */        }        /* 图片悬停效果 */        .gallery-item:hover img {            transform: scale(1.1); /* 鼠标悬停时放大图片 */        }    </style></head><body>    <div class="gallery-container">        <!-- 图片容器 -->        <div class="gallery-item">            <img src="/img/avatar.jpg" alt="No.1">        </div>        <!-- 更多图片 -->    </div></body></html>]]></content>
       
     </entry>
     
